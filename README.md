@@ -1,6 +1,6 @@
 # Machine Learning From Scratch
 
-The main aim is to create macchine learning models from scratch as many as possible. This project would take a long time to finish since I have to learn all the algorithmns before implementation.
+The main aim is to create machine learning models from scratch as many as possible. This project would take a long time to finish since I have to learn all the algorithmns before implementation.
 
 I would also try my level best to write a easily understandable code and also give a clear description on how everything is working. So it would help anyone who is planning on learning machine learning. 
 
